@@ -1,0 +1,11 @@
+.env
+.env.dev
+.env.test
+.env.prod
+
+*.pyc
+
+venv
+node_modulesf
+
+db.sqlite3
